@@ -1,0 +1,14 @@
+C:\Users\017586631\source\repos\ExercicioDDD\bin\Debug\netcoreapp3.1\ExercicioDDD.exe
+C:\Users\017586631\source\repos\ExercicioDDD\bin\Debug\netcoreapp3.1\ExercicioDDD.deps.json
+C:\Users\017586631\source\repos\ExercicioDDD\bin\Debug\netcoreapp3.1\ExercicioDDD.runtimeconfig.json
+C:\Users\017586631\source\repos\ExercicioDDD\bin\Debug\netcoreapp3.1\ExercicioDDD.runtimeconfig.dev.json
+C:\Users\017586631\source\repos\ExercicioDDD\bin\Debug\netcoreapp3.1\ExercicioDDD.dll
+C:\Users\017586631\source\repos\ExercicioDDD\bin\Debug\netcoreapp3.1\ExercicioDDD.pdb
+C:\Users\017586631\source\repos\ExercicioDDD\obj\Debug\netcoreapp3.1\ExercicioDDD.csproj.AssemblyReference.cache
+C:\Users\017586631\source\repos\ExercicioDDD\obj\Debug\netcoreapp3.1\ExercicioDDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\017586631\source\repos\ExercicioDDD\obj\Debug\netcoreapp3.1\ExercicioDDD.AssemblyInfoInputs.cache
+C:\Users\017586631\source\repos\ExercicioDDD\obj\Debug\netcoreapp3.1\ExercicioDDD.AssemblyInfo.cs
+C:\Users\017586631\source\repos\ExercicioDDD\obj\Debug\netcoreapp3.1\ExercicioDDD.csproj.CoreCompileInputs.cache
+C:\Users\017586631\source\repos\ExercicioDDD\obj\Debug\netcoreapp3.1\ExercicioDDD.dll
+C:\Users\017586631\source\repos\ExercicioDDD\obj\Debug\netcoreapp3.1\ExercicioDDD.pdb
+C:\Users\017586631\source\repos\ExercicioDDD\obj\Debug\netcoreapp3.1\ExercicioDDD.genruntimeconfig.cache
